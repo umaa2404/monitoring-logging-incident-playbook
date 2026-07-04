@@ -1,0 +1,14 @@
+{
+  "name": "monitoring-logging-incident-playbook",
+  "version": "1.0.0",
+  "description": "Monitoring, Logging & Incident Playbook Project",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0",
+    "morgan": "^1.11.0",
+    "prom-client": "^15.0.0"
+  }
+}
