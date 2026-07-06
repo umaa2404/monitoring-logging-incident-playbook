@@ -47,7 +47,6 @@ monitoring-logging-incident-playbook
 ├── package-lock.json
 ├── incident-playbook.md
 ├── README.md
-└── screenshots
 ```
 
 ---
